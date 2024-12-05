@@ -13,5 +13,8 @@
     "url": "https://github.com/ohataken/polynoise/issues"
   },
   "homepage": "https://github.com/ohataken/polynoise#readme",
-  "description": "polynoise"
+  "description": "polynoise",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
