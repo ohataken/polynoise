@@ -1,0 +1,17 @@
+{
+  "name": "polynoise",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohataken/polynoise.git"
+  },
+  "author": "ohataken",
+  "bugs": {
+    "url": "https://github.com/ohataken/polynoise/issues"
+  },
+  "homepage": "https://github.com/ohataken/polynoise#readme",
+  "description": "polynoise"
+}
