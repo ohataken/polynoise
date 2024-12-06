@@ -16,6 +16,7 @@
   "description": "polynoise",
   "devDependencies": {
     "@types/node": "^22.10.1",
+    "parcel": "^2.13.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }
