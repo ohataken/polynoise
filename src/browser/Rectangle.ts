@@ -1,6 +1,7 @@
+import Point from './Point';
 import Rectangular from './Rectangular';
 
-export default class Rectangle implements Rectangular {
+export default class Rectangle implements Point, Rectangular {
 
   readonly x: number;
   readonly y: number;
